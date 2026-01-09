@@ -3,6 +3,12 @@
 AI/ML engineer and CS student at École Centrale de Lyon.
 building something new!
 
+### connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugopuybareau)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.puybareau@ec-lyon.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hugopuybareau.com)
+
 ### recent projects
 
 - **Developer setup agent** @ [silveragents.ai](https://silveragents.ai) – reduces environment setup time
@@ -18,3 +24,11 @@ Built an LLM-powered SaaS for manuscript analysis. Designed RAG architecture wit
 
 **Data Scientist** @ BNP Paribas (Sep 2024 – Feb 2025)
 Built ML models (XGBoost, KNN, Random Forest) on open data.
+
+---
+
+### github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugopuybareau&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugopuybareau&layout=compact&theme=radical&hide_border=true)
