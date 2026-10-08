@@ -1,7 +1,7 @@
 ## Hugo Puybareau
 
-AI/ML engineer and CS student at École Centrale de Lyon.
-building something new!
+ceo @ [jayn](https://jayn.app) — we work on reducing AI costs.
+CS student at École Centrale de Lyon.
 
 ### connect with me
 
@@ -11,6 +11,7 @@ building something new!
 
 ### recent projects
 
+- **[jaynshare](https://github.com/jaynlabs/jaynshare)** @ [jayn](https://jayn.app) – self-hosted proxy to share Claude & Codex subscriptions (Rust)
 - **Developer setup agent** @ [silveragents.ai](https://silveragents.ai) – reduces environment setup time
 - **Agentic trading platform** on Jade
 - **Fact-checking chatbot** – RAG system for French politics
