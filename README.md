@@ -1,7 +1,7 @@
 ## Hugo Puybareau
 
-ceo @ [jayn](https://jayn.app) — we work on reducing AI costs.
-CS student at École Centrale de Lyon.
+ceo @ [jayn](https://jayn.app), we work on reducing AI costs.
+CS @ École Centrale de Lyon, AI @ Université Lyon 1
 
 ### connect with me
 
