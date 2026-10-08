@@ -11,10 +11,10 @@ CS @ École Centrale de Lyon, AI @ Université Lyon 1
 
 ### recent projects
 
-- **[jaynshare](https://github.com/jaynlabs/jaynshare)** @ [jayn](https://jayn.app) – self-hosted proxy to share Claude & Codex subscriptions (Rust)
-- **Developer setup agent** @ [silveragents.ai](https://silveragents.ai) – reduces environment setup time
+- **[jaynshare](https://github.com/jaynlabs/jaynshare)** @ [jayn](https://jayn.app), self-hosted proxy to share Claude & Codex subscriptions (Rust)
+- **Developer setup agent** @ [silveragents.ai](https://silveragents.ai), reduces environment setup time
 - **Agentic trading platform** on Jade
-- **Fact-checking chatbot** – RAG system for French politics
+- **Fact-checking chatbot**, RAG system for French politics
 - **4th place** @ QRT Data Challenge 2024
 - Participant @ Tech Europe Berlin Hackathon
 
